@@ -1,4 +1,4 @@
-#Example Site
+# Example Site
 
 This is a sample readme file 
 
@@ -8,3 +8,7 @@ This is a sample readme file
 
 ## Link Example
 [CodeTime](https://www.codetime.io)
+
+1. One
+2. Two
+3. Three
